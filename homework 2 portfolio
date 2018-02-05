@@ -1,1 +1,61 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="CatndaHAt.css">
+
+<header> <p style="font-size: 200%" style="color: blue;"> James Harris </p>       </header> 
+	<title> </title>
+	<h1> About Me </h1>
+</head>
+<body>
+	<p> <img src="Teddy Ballgame.jpg" style="width: 200px; height: 200px;"> </p>
+
+<p> I'm very happy to be here. At first it was an honor now it's a pleasure. What else about me? Nothing, how about you? </p>
+
+<footer> <p style="font-size: 50%" align="center"> @Copyright 2018 James Harris </p> 
+
+
+
+</footer>
+
+</body>
+</html>
+
+
+header {  
+color: blue;
+font-family: sans-serif;
+font font-weight: normal;
+background-color: gray;
+border: 2px;
+border-width: 20%; }
+
+h1 { color: gray;  }
+
+body
+
+{   
+border-image: 20px;  
+background-color: blue;
+color: gray;
+font-size: 30px;   }
+
+
+div.relative {
+position: relative;
+right: 30px;
+border: 20px solid }
+
+
+footer { 
+ color: blue;
+font-family: sans-serif;
+font font-weight: normal;
+background-color: gray;
+border: 2px;
+border-width: 20%;
+}
+
 
